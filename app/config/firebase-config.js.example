@@ -1,0 +1,8 @@
+export const config = {
+  apiKey: "<APIKEY>",
+  authDomain: "<foo>-<bar>.firebaseapp.com",
+  databaseURL: "https://<foo>-<bar>.firebaseio.com",
+  projectId: "<foo>-<bar>",
+  storageBucket: "<foo>-<bar>.appspot.com",
+  messagingSenderId: "ALONGID"
+};
